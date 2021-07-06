@@ -6,5 +6,5 @@ Autodidata e consumidor ativo de conteúdo pela internet🎓, desenvolvedor Java
 
 📩 Contato: luka@gotek.com.br
 
-[![Luka Sabino github stats](https://github-readme-stats.vercel.app/api?username=lukasabino&count_private=true&theme=buefy&show_icons=true)](https://github.com/lukasabino)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=lukasabino&count_private=true&theme=buefy&show_icons=true)](https://github.com/lukasabino)
 </details>
