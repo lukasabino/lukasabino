@@ -7,7 +7,6 @@ Autodidata e consumidor ativo de conteúdo pela internet🎓, desenvolvedor Java
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sabinoluka)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luka@gotek.com.br)
 
-📩 Contato: luka@gotek.com.br
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=lukasabino&count_private=true&theme=buefy&show_icons=true)](https://github.com/lukasabino)
 </details>
